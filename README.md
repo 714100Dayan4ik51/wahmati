@@ -26,8 +26,8 @@
 
 ### Скриншоты тестов:
 
-![test 1](test 1.png)
+![test 1](https://raw.githubusercontent.com/714100Dayan4ik51/wahmati/main/test%201.png)
 
-![test 2](test 2.png)
+![test 2](https://github.com/714100Dayan4ik51/wahmati/blob/main/test%202.png?raw=true)
 
-![test 3](test 3.png)
+![test 3](https://github.com/714100Dayan4ik51/wahmati/blob/main/test%203.png?raw=true)
